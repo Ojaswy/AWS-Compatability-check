@@ -8,6 +8,16 @@
 [API Link](https://mdcmmla4nk.execute-api.us-west-2.amazonaws.com/dev)
 
 Result for 
+`{
+  "current_instance_type": "a1.large",
+  "required_vcpus": 8,
+  "required_memory_mib": 16384,
+  "required_gpus": 0,
+  "bucket": "aws-ec2-rec-north",
+  "catalog_key": "preprocessed_catalog.csv",
+  "matrix_key": "interchangeable_mat.csv",
+  "top_n": 2
+}`
 
 ![](https://raw.githubusercontent.com/Ojaswy/AWS-Compatability-check/refs/heads/main/op_aws_api.png)
 
