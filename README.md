@@ -6,3 +6,5 @@
 4. From the interchangeable matrix - it suggests the best recommendation based on -  "current_instance_type", "required_vcpus", "required_memory_mib", "required_gpus"
  
 [API Link](https://mdcmmla4nk.execute-api.us-west-2.amazonaws.com/dev)
+
+Resources: [Compatibility for changing the instance type](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/resize-limitations.html)
