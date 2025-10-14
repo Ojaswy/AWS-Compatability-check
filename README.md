@@ -7,4 +7,9 @@
  
 [API Link](https://mdcmmla4nk.execute-api.us-west-2.amazonaws.com/dev)
 
+Result for 
+
+![](https://raw.githubusercontent.com/Ojaswy/AWS-Compatability-check/refs/heads/main/op_aws_api.png)
+
 Resources: [Compatibility for changing the instance type](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/resize-limitations.html)
+
