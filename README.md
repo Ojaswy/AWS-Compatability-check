@@ -1,0 +1,2 @@
+# AWS-Compatability-check
+Comp
